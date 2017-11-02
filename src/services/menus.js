@@ -8,5 +8,11 @@ export async function query (params) {
     url: menus,
     method: 'get',
     data: params,
+    method: 'get',
+    data: params,
+    method: 'get',
+    data: params,
+    method: 'get',
+    data: params,
   })
 }
