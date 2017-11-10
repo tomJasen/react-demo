@@ -21,6 +21,8 @@ const pageModel = modelExtend(model, {
       showTotal: total => `Total ${total} Items`,
       current: 1,
       total: 0,
+      current1: 1,
+      total1: 0,
     },
   },
 

@@ -21,6 +21,7 @@ export default modelExtend(model, {
     recentSales: [],
     comments: [],
     completed: [],
+    completed1: [],
     browser: [],
     cpu: {},
     user: {
